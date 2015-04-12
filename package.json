@@ -31,8 +31,7 @@
     "url": "https://github.com/jstransformers/jstransformer-coffeekup/blob/master/LICENSE.md"
   },
   "dependencies": {
-    "coffeekup": "~0.3.1",
-    "extend-shallow": "~1.1.2"
+    "coffeekup": "~0.3.1"
   },
   "devDependencies": {
     "assertit": "^0.1.0",

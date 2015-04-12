@@ -7,7 +7,6 @@
 
 'use strict';
 
-var extend = require('extend-shallow');
 var coffeekup = require('coffeekup');
 
 exports.name = 'coffeekup';
