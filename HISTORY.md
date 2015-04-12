@@ -1,5 +1,8 @@
 
 
+## v0.2.0 / April 12, 2015
+- extend example
+
 ## v0.1.0 / April 12, 2015
 - remove `extend-shallow`
 
