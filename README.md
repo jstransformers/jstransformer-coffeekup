@@ -23,6 +23,11 @@ var data = coffeekup.render(template, options, locals);
 
 console.log(data.body);
 //=> '<h1>Hello world! tunnckoCore is my master!</h1>'
+
+
+var compiled = coffeekup.compile(template).fn;
+console.log(compiled(locals));
+//=> '<h1>Hello world! tunnckoCore is my master!</h1>'
 ```
 
 
