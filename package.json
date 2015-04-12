@@ -1,0 +1,42 @@
+{
+  "name": "jstransformer-coffeekup",
+  "version": "0.0.0",
+  "description": "CoffeeKup support for JS Transformers.",
+  "scripts": {
+    "lint": "jshint index.js && jscs index.js --reporter inline",
+    "test": "node test",
+    "test-cov": "istanbul cover test",
+    "test-travis": "istanbul cover test --report lcovonly"
+  },
+  "author": {
+    "name": "Charlike Mike Reagent",
+    "email": "mameto_100@mail.bg",
+    "url": "https://github.com/tunnckoCore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jstransformers/jstransformer-coffeekup.git"
+  },
+  "keywords": [
+    "coffee",
+    "coffeekup",
+    "coffeescript",
+    "engine",
+    "jstranformer",
+    "template",
+    "transform"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jstransformers/jstransformer-coffeekup/blob/master/LICENSE.md"
+  },
+  "dependencies": {
+    "coffeekup": "~0.3.1",
+    "extend-shallow": "~1.1.2"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "istanbul-harmony": "~0.3.1",
+    "jstransformer": "~0.0.0"
+  }
+}
