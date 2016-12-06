@@ -1,16 +1,8 @@
-/**
- * jstransformer-coffeekup <https://github.com/jstransformers/jstransformer-coffeekup>
- *
- * Copyright (c) 2015 Charlike Mike Reagent, contributors.
- * Released under the MIT license.
- */
-
 'use strict';
 
 var coffeekup = require('coffeekup');
 
 exports.name = 'coffeekup';
-exports.inputFormats = ['coffee', 'coffeekup'];
 exports.outputFormat = 'html';
 
 exports.compile = function _compile(str, options) {
