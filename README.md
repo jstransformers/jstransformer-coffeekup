@@ -1,5 +1,7 @@
 # jstransformer-coffeekup
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-coffeekup.svg)](https://greenkeeper.io/)
+
 [CoffeeKup](https://github.com/mauricemach/coffeekup) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-coffeekup/master.svg)](https://travis-ci.org/jstransformers/jstransformer-coffeekup)
