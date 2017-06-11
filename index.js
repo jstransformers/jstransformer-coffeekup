@@ -1,6 +1,6 @@
 'use strict'
 
-var coffeekup = require('coffeekup')
+const coffeekup = require('coffeekup')
 
 exports.name = 'coffeekup'
 exports.outputFormat = 'html'
