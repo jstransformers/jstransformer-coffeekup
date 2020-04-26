@@ -5,7 +5,6 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-coffeekup/master.svg)](https://travis-ci.org/jstransformers/jstransformer-coffeekup)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-coffeekup/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-coffeekup)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-coffeekup/master.svg)](http://david-dm.org/jstransformers/jstransformer-coffeekup)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-coffeekup.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-coffeekup.svg)](https://www.npmjs.org/package/jstransformer-coffeekup)
 
 ## Installation
